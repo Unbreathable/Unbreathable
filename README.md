@@ -1,4 +1,4 @@
-### 👋 Hi there, my name is Unbreathable
+## 👋 Hi there, my name is Unbreathable
 
 ## ⚡I contributed to
 Compiler
