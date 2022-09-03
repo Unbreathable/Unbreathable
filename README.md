@@ -3,30 +3,34 @@
 
 ## ⚡I contributed to
 - Compiler
+- Learn
 - Knight
 - Azura
 
 ## 🔭 I’m currently working on
-- Compiler
+- Learn
 - A private website with a backend made in Spring
 
 ## 🌱 I’m currently learning
 - Spring Reactive
-- Redis
+- PostgreSQL
+- NodeJS
 - Unity
 
 ## ⛏️ Frameworks and Tools
 - Spring
-- Redis
+- Svelte Kit
 - VS Code
 - IntelliJ
 - Unity
+- npm
 
 ## 🌐 Languages
 - Java
 - HTML
 - CSS
 - JavaScript
+- Svelte
 
 <!--
 **Unbreathable/Unbreathable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
