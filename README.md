@@ -6,8 +6,9 @@
 - Knight (private)
 
 ## 🔭 I’m currently working on
-- Learn
-- A private website with a backend made in Spring
+- A secret project
+- NoRules
+- Azura Backend
 
 ## 🌱 I’m currently learning
 - Spring Reactive
