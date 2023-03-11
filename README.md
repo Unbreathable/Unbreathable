@@ -1,20 +1,16 @@
 # 👋 Hi there, my name is Unbreathable
 📫 Discord: Unbreathable#3916
 
+
 ## ⚡I contributed to
 - Learn (https://github.com/Fajurion/learn)
-- Knight (private)
+- FJ (https://fajurion.com)
 
 ## 🔭 I’m currently working on
-- A secret project
-- NoRules
-- Azura Backend
+- FJ Chat (end-to-end encrypted messaging)
 
 ## 🌱 I’m currently learning
-- Spring Reactive
-- PostgreSQL
-- NodeJS
-- Unity
+- Making online infrastructure
 
 ## ⛏️ Frameworks and Tools
 - Flutter
@@ -24,6 +20,9 @@
 - IntelliJ
 - Unity
 - npm
+- Go fiber
+- GORM
+- Go websockets
 
 ## 🌐 Languages
 - Java
@@ -32,3 +31,4 @@
 - JavaScript
 - Svelte
 - Dart
+- Golang
