@@ -3,6 +3,7 @@
 
 
 ## ⚡I contributed to
+- Chat (out very soon 👀)
 - Learn (https://github.com/Fajurion/learn)
 - FJ (https://fajurion.com)
 
