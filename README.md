@@ -2,9 +2,6 @@
 📫 Discord: Unbreathable#3916
 
 
-## 🔭 I’m currently working on
-- FJ Chat (end-to-end encrypted messaging)
-
 ## ⚡I contributed to
 - Chat (out very soon 👀)
 - Learn (https://github.com/Fajurion/learn)
