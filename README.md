@@ -1,16 +1,15 @@
 # 👋 Hi there, my name is Unbreathable
-📫 Discord: Unbreathable#3916
+📫 Discord: @unbreathable
 
 
-## ⚡I contributed to
-- Chat (out very soon 👀)
-- Learn (https://github.com/Fajurion/learn)
-- FJ (https://fajurion.com)
-- Azura (https://github.com/Azura-client)
-- NoRules
+## ⚡I'm working on
+- pipes (https://github.com/Fajurion/pipes and https://github.com/Fajurion/pipes-fiber)
+- a chat app
+- lots of private repositories that work with pipes
 
 ## 🌱 I’m currently learning
 - Making online infrastructure
+- Scalable event pipelines (it's kinda hard)
 
 ## ⛏️ Frameworks and Tools
 - Flutter
@@ -32,3 +31,4 @@
 - Svelte
 - Dart
 - Golang
+- Rust
