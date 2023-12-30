@@ -4,7 +4,7 @@
 
 ## ⚡I'm working on
 - pipes (https://github.com/Fajurion/pipes and https://github.com/Fajurion/pipes-fiber)
-- a chat app
+- a chat app (Alpha in January of 2024)
 - lots of private repositories that work with pipes
 
 ## 🌱 I’m currently learning
