@@ -3,9 +3,7 @@
 
 
 ## ⚡I'm working on
-- pipes (https://github.com/Fajurion/pipes and https://github.com/Fajurion/pipes-fiber)
-- a chat app (Alpha in January of 2024)
-- lots of private repositories that work with pipes
+- Liphium (https://liphium.app or just check out https://github.com/Liphium)
 
 ## 🌱 I’m currently learning
 - Making online infrastructure
