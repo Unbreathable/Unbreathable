@@ -23,4 +23,4 @@ I love networked system design and decentralization which is why I've been worki
 - VS Code (if you add one more AI feature I will kill Copilot.. in Minecraft)
 - Godot (when I attend game jams, good for making good games quickly)
 
-**Want to talk to me?** Discord: @unbreathable
+**Want to talk to me?** Discord: @unbreathable or contact me [using E-Mail](mailto:julian@liphium.dev).
