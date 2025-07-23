@@ -16,7 +16,9 @@ I love networked system design and decentralization which is why I've been worki
 **App I'm currently working on**: https://liphium.com (or https://github.com/Liphium)
 
 **Frameworks and tools**: 
+- [Magic](https://github.com/Liphium/magic) (that testing tool we built for Liphium, try it, it's really cool)
 - Flutter (please never die, I love you way too much)
+- Svelte (currently rebuilding Liphium with it [here](https://github.com/Liphium/chat-rs))
 - Fiber (that fast Go http framework that doesn't have HTTP/2 support yet)
 - GORM (one of the best ORM libraries I've had to deal with, no code gen, thanks!)
 - Hugo (best static site generator, very feature rich and stuff, but I hate theming it)
