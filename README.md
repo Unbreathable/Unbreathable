@@ -19,8 +19,6 @@ I love networked system design and web tech which is why I've been working on th
 - C# (a little, Unity I still hate you)
 - Rust (*trying* to learn how to fight the borrow checker, maybe I should learn how to build a weapon to fight it instead)
 
-**My main project currently**: https://liphium.com (all kinds of apps) and https://liphium.dev (the frameworks that power those apps)
-
 **Frameworks and tools**: 
 - Flutter (please never die, I love you way too much)
 - Svelte (my main choice for web frontends)
